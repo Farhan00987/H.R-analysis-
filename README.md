@@ -4,6 +4,7 @@
 
 This Power BI project is designed to analyze HR data and provide insights into various aspects of an organization's workforce. The project includes a comprehensive dashboard that covers key HR metrics, such as employee demographics, attendance trends, and performance indicators.
 .Features
+
 1.Data Cleaning and Transformation: The project utilizes Power Query to clean and transform data from various sources, ensuring data integrity and consistency.
 
 2.Data Modeling: The data is modeled using Power BI's data modeling capabilities, enabling efficient data analysis and report generation.
